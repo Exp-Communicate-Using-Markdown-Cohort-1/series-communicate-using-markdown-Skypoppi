@@ -7,3 +7,7 @@
 $ git remote add origin master
 $ git commit -u origin master
 ```
+
+- [x] Chapter 1 study
+- [ ] Chapter 2 revision
+- [x] Watch anime
